@@ -1,0 +1,10 @@
+---
+  title: "Restoration Actions"
+  listing: grid
+  contents: "restoration_actions/*.qmd"
+  sort:
+    - "title desc"
+---
+
+Restoration actions placeholder
+

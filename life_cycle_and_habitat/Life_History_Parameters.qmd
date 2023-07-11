@@ -1,0 +1,5 @@
+---
+  title: "Nicola Chinook Life History Parameters"
+---
+
+Life history (life cycle) input parameters for the CEMPRA population model.

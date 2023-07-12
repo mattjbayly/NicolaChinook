@@ -1,10 +1,10 @@
 ---
 title: "BC Fish Passage Model - Nicola"
 description: Predictions of fish-bearing and non-fish-bearing stream reaches
-author: "Mazany-Wright et al"
+author: "Mazany-Wright et al 2021"
 date: "September 1, 2021"
 categories:
-  - fish_passage
+  - fish passage
   - GIS
 ---
 

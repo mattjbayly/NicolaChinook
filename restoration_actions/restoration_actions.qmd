@@ -6,5 +6,5 @@
     - "title desc"
 ---
 
-Restoration actions placeholder
+Restoration actions placeholder text ...
 

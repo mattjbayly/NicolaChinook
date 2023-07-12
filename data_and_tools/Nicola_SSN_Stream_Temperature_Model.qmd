@@ -1,7 +1,7 @@
 ---
 title: "Nicola SSN Stream Temperature Model"
 description: Predictions of current and future stream temperatures from the empirical SSN modelling framework
-author: "Porter et al"
+author: "Porter et al 2017"
 date: "October 27, 2017"
 categories:
   - "stream temperature"

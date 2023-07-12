@@ -1,8 +1,0 @@
----
-  title: "Stressor Profile 2"
----
-  
-  Stressor Profile 3
-```{r}
-1 + 1
-```

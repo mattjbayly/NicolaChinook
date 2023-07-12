@@ -1,0 +1,19 @@
+---
+title: "Water Management and Water Use"
+description: Dam Release, water management and water use.
+categories:
+  - stream temperature
+  - low flows
+  - fish passage
+  - restoration
+---
+
+![](images/Picture2.png){fig-align="center"}
+
+# **Applications in the Nicola**
+
+...
+
+# **Links**
+
+...

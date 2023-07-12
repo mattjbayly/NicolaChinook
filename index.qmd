@@ -4,6 +4,8 @@ title: "Informing Cumulative Effects Management for Chinook Salmon in the Nicola
 
 Technical leads: ESSA, supported by scientists from the University of British Columbia, MoE, and Simon Fraser University.
 
+![](images/team_logos.png){fig-align="center" width="520"}
+
 ## **Project Team:**
 
 |                              |                                  |
@@ -13,8 +15,6 @@ Technical leads: ESSA, supported by scientists from the University of British Co
 | Richard Bailey (Independent) | Graham Mushet (ESSA)             |
 | Jordan Rosenfeld (UBC/MoE)   | Jonathan Moore (SFU)             |
 | Bea Rost-Komiya (ESSA)       | Tom Willms (NVIT)                |
-
-: Project Team
 
 Contact: [mbayly\@essa.com](mailto:mbayly@essa.com); [lsantana\@essa.com](mailto:lsantana@essa.com)
 
@@ -58,13 +58,13 @@ This project will provide an enhanced quantitative understanding of cumulative e
 
 ## **Specific Project Outcomes:**
 
--   A summary report that is a compilation of stressors and response relationships for Nicola Chinook (*e.g., functional relationship between fine sediment or water temperatures and juvenile survival*), based on both scientific and traditional knowledge.
+-   A summary report that is a compilation of stressors and response relationships for Nicola Chinook (*e.g., functional relationship between fine sediment or water temperatures and juvenile survival*), based on both scientific and traditional knowledge \[[Stressor Response Relationships](./stressor_response/Stressor_Response.html)\].
 
--   A spatially explicit stressor magnitude database that provides maps of the current state and distribution of regional stressors, in terms of activities, stressors, and the predicted state of Chinook Salmon. This stressor magnitude database will be made available in multiple formats for use in conventional GIS software environments such as ArcGIS Pro and QGIS. Underlying stressor-magnitude files will also be generated in formatted Excel workbooks.
+-   A spatially explicit stressor magnitude database that provides maps of the current state and distribution of regional stressors, in terms of activities, stressors, and the predicted state of Chinook Salmon. This stressor magnitude database will be made available in multiple formats for use in conventional GIS software environments such as ArcGIS Pro and QGIS. Underlying stressor-magnitude files will also be generated in formatted Excel workbooks \[[Stressor Profiles](./stressor_profiles/Stressor_Profiles.html)\].
 
--   A customized version of the CEMPRA R-Shiny application tailored for the Nicola Basin and Chinook Salmon.
+-   A customized version of the CEMPRA R-Shiny application tailored for the Nicola Basin and Chinook Salmon \[[tool in prep.](https://essa.shinyapps.io/JoeModelCEShiny/)\].
 
--   A set of carefully scoped hypothetical future scenarios of watershed use that can be simulated, communicated in part as spatial maps of land-use activities, and predicted future states of Chinook Salmon associated with them.
+-   A set of carefully scoped hypothetical future scenarios of watershed use that can be simulated, communicated in part as spatial maps of land-use activities, and predicted future states of Chinook Salmon associated with them \[Scenario [themes](./scenarios/Scenario_Themes.html), [profiles](./scenarios/Scenario_Design.html) and [results](./scenarios/Scenario_Results.html)\].
 
 -   A summary report describing the outcome of different future land-use scenarios, and how they relate to community values, and an assessment of the underlying trade-offs between these values that are evident in the modelling scenarios.
 

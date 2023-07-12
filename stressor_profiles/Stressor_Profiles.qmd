@@ -1,9 +1,0 @@
----
-  title: "Stressor Profiles"
-  listing: grid
-  contents: "stressor_profiles/*.qmd"
-  sort:
-    - "title desc"
----
-
-**Stressor Profiles:** providing an overview of key stressors identified from the workshop series.

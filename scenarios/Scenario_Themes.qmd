@@ -1,5 +1,0 @@
----
-  title: "Scenario Themes"
----
-
-Scenario themes placeholder

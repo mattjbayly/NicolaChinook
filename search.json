@@ -11,7 +11,11 @@
     "href": "stressor_response/Stressor_Response.html",
     "title": "Stressor Response Relationships",
     "section": "",
+<<<<<<< HEAD:search.json
     "text": "Stressor Response Relationships\n\n\n\n\n\n\n    \n      \n      \n    \n\n\n\n\n  \n\n\n\n\nTemperature and Adult Migration and Holding Productivity\n\n\n\n\n\n\n\nstream temperature\n\n\nstressor response\n\n\nadult\n\n\nmigration\n\n\nholding\n\n\n\n\nTemperature Effect on Spring Chinook Adult Migration and Holding Productivity\n\n\n\n\n\n\nJan 1, 2021\n\n\nBeechie et al\n\n\n\n\n\n\nNo matching items\n\n Back to top"
+=======
+    "text": "Stressor Response Relationships\n\n\n\n\n\n\n    \n      \n      \n    \n\n\n\n\n  \n\n\n\n\nTemperature and Adult Migration and Holding Productivity\n\n\n\n\n\n\n\nstream temperature\n\n\nstressor response\n\n\nadult\n\n\nmigration\n\n\nholding\n\n\n\n\nTemperature Effect on Spring Chinook Adult Migration and Holding Productivity\n\n\n\n\n\n\nJan 1, 2021\n\n\nBeechie et al 2021\n\n\n\n\n\n\nNo matching items\n\n Back to top"
+>>>>>>> main:_site/search.json
   },
   {
     "objectID": "stressor_profiles/Stressor_Profile_2.html",
@@ -32,21 +36,29 @@
     "href": "stressor_profiles/Stream_Temperature.html#overview",
     "title": "Stream Temperature",
     "section": "Overview",
+<<<<<<< HEAD:search.json
     "text": "Overview\nStream temperature becomes too warm for Chinook Salmon at certain life stages. Warming temperatures can have a negative impact on egg survival, alevin/fry survival, and can increase the probability of pre-spawning mortality when mature individuals return to freshwater. High stream temperatures also create thermal barriers between mainstem and tributary sections, blocking the seasonal movement of Chinook. Numerous natural and anthropogenic factors influence stream temperature. Forest harvesting has been demonstrated to have an important influence on stream temperature, in addition to continued changes in climate (Gomi et al., 2006)."
+=======
+    "text": "Overview\nStream temperature becomes too warm for Chinook Salmon at certain life stages. Warming temperatures can have a negative impact on egg survival, alevin/fry survival, and can increase the probability of pre-spawning mortality when mature individuals return to freshwater. High stream temperatures also create thermal barriers between mainstem and tributary sections, blocking the seasonal movement of Chinook.\nLandscape activities and exacerbating factors: Numerous natural and anthropogenic factors influence stream temperature. Forest harvesting has been demonstrated to have an important influence on stream temperature, in addition to continued changes in climate (Gomi et al., 2006)."
+>>>>>>> main:_site/search.json
   },
   {
     "objectID": "stressor_profiles/Stream_Temperature.html#key-datasets-stressor-magnitude",
     "href": "stressor_profiles/Stream_Temperature.html#key-datasets-stressor-magnitude",
     "title": "Stream Temperature",
     "section": "Key Datasets: Stressor Magnitude",
+<<<<<<< HEAD:search.json
     "text": "Key Datasets: Stressor Magnitude\nStressor magnitude input data is used to generate maps and location-specific estimates of current (or future) conditions across the landscape.\n\n\n\n\n\n\n\n\nNicola SSN Stream Temperature Model\n\n\nPredictions of current and future stream temperatures from the empirical SSN modelling framework\n\n\n\nPorter et al\n\n\nOct 27, 2017\n\n\n\n\n\n\n\n\nNo matching items"
+=======
+    "text": "Key Datasets: Stressor Magnitude\nStressor magnitude input data is used to generate maps and location-specific estimates of current (or future) conditions across the landscape.\n\n\n\n\n\n\n\n\nNicola SSN Stream Temperature Model\n\n\nPredictions of current and future stream temperatures from the empirical SSN modelling framework\n\n\n\nPorter et al 2017\n\n\nOct 27, 2017\n\n\n\n\n\n\n\n\n\n\n\n\nRaven Stream Flow Projections for the Nicola\n\n\nStreamflow and macro refugia identification in the Nicola River Watershed\n\n\n\nChernos et al 2022\n\n\nAug 31, 2022\n\n\n\n\n\n\n\n\nNo matching items"
+>>>>>>> main:_site/search.json
   },
   {
     "objectID": "stressor_profiles/Stream_Temperature.html#stressor-response-relationships",
     "href": "stressor_profiles/Stream_Temperature.html#stressor-response-relationships",
     "title": "Stream Temperature",
     "section": "Stressor-Response Relationships",
-    "text": "Stressor-Response Relationships\nStressor response relationships describe the relationship between a stressor and a component of the Chinook Salmon life cycle.\n\n\n\n\n\n\n\n\nTemperature and Adult Migration and Holding Productivity\n\n\nTemperature Effect on Spring Chinook Adult Migration and Holding Productivity\n\n\n\nBeechie et al\n\n\nJan 1, 2021\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "Stressor-Response Relationships\nStressor response relationships describe the relationship between a stressor and a component of the Chinook Salmon life cycle.\n\n\n   \n     \n     \n       Order By\n       Default\n         \n          Title\n        \n         \n          Author\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\nAuthor\n\n\nTitle\n\n\nDescription\n\n\n\n\n\n\nBeechie et al 2021\n\n\nTemperature and Adult Migration and Holding Productivity\n\n\nTemperature Effect on Spring Chinook Adult Migration and Holding Productivity\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "scenarios/Scenario_Results.html",
@@ -60,7 +72,11 @@
     "href": "restoration_actions/restoration_actions.html",
     "title": "Restoration Actions",
     "section": "",
+<<<<<<< HEAD:search.json
     "text": "Restoration actions placeholder\n\n\n\n\n\n\n\n\n\nNo matching items\n\n Back to top"
+=======
+    "text": "Restoration actions placeholder text …\n\n\n\n\n\n\n\n\n\n\n\n\nBeaver Reintroduction and Management\n\n\nBeaver reintroduction, and management with beaver dam analogues.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nUpland Forest Management and Reforestation\n\n\nUpland forest management and reforestation to reduce ECA, peak flows and stream temperature.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nWater Management and Water Use\n\n\nDam Release, water management and water use.\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items\n\n Back to top"
+>>>>>>> main:_site/search.json
   },
   {
     "objectID": "life_cycle_and_habitat/Life_History_Overview.html",
@@ -81,7 +97,7 @@
     "href": "index.html#project-team",
     "title": "Informing Cumulative Effects Management for Chinook Salmon in the Nicola Watershed",
     "section": "Project Team:",
-    "text": "Project Team:\n\nProject Team\n\n\nDavid Lawrence (Nooaitch)\nClint Alexander (ESSA)\n\n\nNatasha Fountain (Nooaitch)\nMatthew Bayly (ESSA/Independent)\n\n\nRichard Bailey (Independent)\nGraham Mushet (ESSA)\n\n\nJordan Rosenfeld (UBC/MoE)\nJonathan Moore (SFU)\n\n\nBea Rost-Komiya (ESSA)\nTom Willms (NVIT)\n\n\n\nContact: mbayly@essa.com; lsantana@essa.com"
+    "text": "Project Team:\n\n\n\nDavid Lawrence (Nooaitch)\nClint Alexander (ESSA)\n\n\nNatasha Fountain (Nooaitch)\nMatthew Bayly (ESSA/Independent)\n\n\nRichard Bailey (Independent)\nGraham Mushet (ESSA)\n\n\nJordan Rosenfeld (UBC/MoE)\nJonathan Moore (SFU)\n\n\nBea Rost-Komiya (ESSA)\nTom Willms (NVIT)\n\n\n\nContact: mbayly@essa.com; lsantana@essa.com"
   },
   {
     "objectID": "index.html#summary",
@@ -123,14 +139,22 @@
     "href": "index.html#specific-project-outcomes",
     "title": "Informing Cumulative Effects Management for Chinook Salmon in the Nicola Watershed",
     "section": "Specific Project Outcomes:",
+<<<<<<< HEAD:search.json
     "text": "Specific Project Outcomes:\n\nA summary report that is a compilation of stressors and response relationships for Nicola Chinook (e.g., functional relationship between fine sediment or water temperatures and juvenile survival), based on both scientific and traditional knowledge.\nA spatially explicit stressor magnitude database that provides maps of the current state and distribution of regional stressors, in terms of activities, stressors, and the predicted state of Chinook Salmon. This stressor magnitude database will be made available in multiple formats for use in conventional GIS software environments such as ArcGIS Pro and QGIS. Underlying stressor-magnitude files will also be generated in formatted Excel workbooks.\nA customized version of the CEMPRA R-Shiny application tailored for the Nicola Basin and Chinook Salmon.\nA set of carefully scoped hypothetical future scenarios of watershed use that can be simulated, communicated in part as spatial maps of land-use activities, and predicted future states of Chinook Salmon associated with them.\nA summary report describing the outcome of different future land-use scenarios, and how they relate to community values, and an assessment of the underlying trade-offs between these values that are evident in the modelling scenarios.\n\n\n\n\nProject overview workflow"
+=======
+    "text": "Specific Project Outcomes:\n\nA summary report that is a compilation of stressors and response relationships for Nicola Chinook (e.g., functional relationship between fine sediment or water temperatures and juvenile survival), based on both scientific and traditional knowledge [Stressor Response Relationships].\nA spatially explicit stressor magnitude database that provides maps of the current state and distribution of regional stressors, in terms of activities, stressors, and the predicted state of Chinook Salmon. This stressor magnitude database will be made available in multiple formats for use in conventional GIS software environments such as ArcGIS Pro and QGIS. Underlying stressor-magnitude files will also be generated in formatted Excel workbooks [Stressor Profiles].\nA customized version of the CEMPRA R-Shiny application tailored for the Nicola Basin and Chinook Salmon [tool in prep.].\nA set of carefully scoped hypothetical future scenarios of watershed use that can be simulated, communicated in part as spatial maps of land-use activities, and predicted future states of Chinook Salmon associated with them [Scenario themes, profiles and results].\nA summary report describing the outcome of different future land-use scenarios, and how they relate to community values, and an assessment of the underlying trade-offs between these values that are evident in the modelling scenarios.\n\n\n\n\nProject overview workflow"
+>>>>>>> main:_site/search.json
   },
   {
     "objectID": "data_and_tools/Data_Tools.html",
     "href": "data_and_tools/Data_Tools.html",
     "title": "Data and Tools",
     "section": "",
+<<<<<<< HEAD:search.json
     "text": "Data and Tools\n\n\n\n\n\n\n    \n      \n      \n    \n\n\n\n\n  \n\n\n\n\nNicola SSN Stream Temperature Model\n\n\n\n\n\n\n\nstream temperature\n\n\nGIS\n\n\n\n\nPredictions of current and future stream temperatures from the empirical SSN modelling framework\n\n\n\n\n\n\nOct 27, 2017\n\n\nPorter et al\n\n\n\n\n\n\n  \n\n\n\n\nBC Fish Passage Model - Nicola\n\n\n\n\n\n\n\nfish_passage\n\n\nGIS\n\n\n\n\nPredictions of fish-bearing and non-fish-bearing stream reaches\n\n\n\n\n\n\nSep 1, 2021\n\n\nMazany-Wright et al\n\n\n\n\n\n\nNo matching items\n\n Back to top"
+=======
+    "text": "Data and Tools\n\n\n\n\n\n\n    \n      \n      \n    \n\n\n\n\n  \n\n\n\n\nRaven Stream Flow Projections for the Nicola\n\n\n\n\n\n\n\nstream flow\n\n\nlow flow\n\n\nclimate change\n\n\nfish passage\n\n\nstream temperature\n\n\nGIS\n\n\n\n\nStreamflow and macro refugia identification in the Nicola River Watershed\n\n\n\n\n\n\nAug 31, 2022\n\n\nChernos et al 2022\n\n\n\n\n\n\n  \n\n\n\n\nNicola SSN Stream Temperature Model\n\n\n\n\n\n\n\nstream temperature\n\n\nGIS\n\n\n\n\nPredictions of current and future stream temperatures from the empirical SSN modelling framework\n\n\n\n\n\n\nOct 27, 2017\n\n\nPorter et al 2017\n\n\n\n\n\n\n  \n\n\n\n\nBC Fish Passage Model - Nicola\n\n\n\n\n\n\n\nfish passage\n\n\nGIS\n\n\n\n\nPredictions of fish-bearing and non-fish-bearing stream reaches\n\n\n\n\n\n\nSep 1, 2021\n\n\nMazany-Wright et al 2021\n\n\n\n\n\n\nNo matching items\n\n Back to top"
+>>>>>>> main:_site/search.json
   },
   {
     "objectID": "data_and_tools/BC_Fish_Passage_Model.html",
@@ -179,7 +203,11 @@
     "href": "stressor_profiles/Stressor_Profiles.html",
     "title": "Stressor Profiles",
     "section": "",
+<<<<<<< HEAD:search.json
     "text": "Stressor Profiles: providing an overview of key stressors identified from the workshop series.\n\n\n\n\n\n\n\n\n\n\n\n\nStream Temperature\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nStressor Profile 2\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nStressor Profile 3\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items\n\n Back to top"
+=======
+    "text": "Stressor Profiles: providing an overview of key stressors identified from the workshop series.\n\n\n\n\n\n\n\n\n\n\n\n\nBarriers to Fish Passage\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLow Flows\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSedimentation\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nStream Temperature\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items\n\n Back to top"
+>>>>>>> main:_site/search.json
   },
   {
     "objectID": "stressor_profiles/Stressor_Profile_3.html",
@@ -193,6 +221,143 @@
     "href": "stressor_response/Temperature_and_Adult_Migration_and_Holding_Productivity.html",
     "title": "Temperature and Adult Migration and Holding Productivity",
     "section": "",
+<<<<<<< HEAD:search.json
     "text": "Stressor:\nStream Temperature (°C)\n\n\nSpecies:\nSpring Chinook Salmon\n\n\nLife Stage:\nAdults\n\n\nSeason/Activity:\nUpstream Migration and Holding\n\n\nSource Citation:\nBeechie, T. J., C. Nicol, C. Fogel, J. Jorgensen, J. Thompson, G. Seixas, J. Chamberlin, J. Hall, B. Timpane-Padgham, P. Kiffney, S. Kubo, and J. Keaton. 2021. Modeling Effects of Habitat Change and Restoration Alternatives on Salmon in the Chehalis River Basin Using a Salmonid Life-Cycle Model. U.S. Department of Commerce, NOAA Contract Report NMFS-NWFSC-CR-2021-01.\n\n\nStressor-Response Relationship:\n\nRationale:\n…\n\n\nUnderlying Function:\n…\n\n\n\n(Beechie et al 2021): Functional relationship for calculating the spring Chinook prespawn productivity multiplier based on the 7-day average daily maximum stream temperature\n\n\n\n\n\nWhere T is the 7-day average of daily maximum stream temperatures.\n\n\n\n\n\n\n\n Back to top"
+=======
+    "text": "Stressor:\nStream Temperature (°C)\n\n\nSpecies:\nSpring Chinook Salmon\n\n\nLife Stage:\nAdults\n\n\nSeason/Activity:\nUpstream migration and holding\n\n\nVital Rate:\nProductivity multiplier\n\n\nCitation:\nBeechie, T. J., C. Nicol, C. Fogel, J. Jorgensen, J. Thompson, G. Seixas, J. Chamberlin, J. Hall, B. Timpane-Padgham, P. Kiffney, S. Kubo, and J. Keaton. 2021. Modeling Effects of Habitat Change and Restoration Alternatives on Salmon in the Chehalis River Basin Using a Salmonid Life-Cycle Model. U.S. Department of Commerce, NOAA Contract Report NMFS-NWFSC-CR-2021-01.\n\n\nStressor-Response Relationship:\n\nRationale:\n…\n\n\nUnderlying Function:\n…\n\n\n\n(Beechie et al 2021): Functional relationship for calculating the spring Chinook prespawn productivity multiplier based on the 7-day average daily maximum stream temperature\n\n\n\n\n\nWhere T is the 7-day average of daily maximum stream temperatures.\n\n\n\n\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "stressor_profiles/Stream_Temperature.html#associated-restoration-actions",
+    "href": "stressor_profiles/Stream_Temperature.html#associated-restoration-actions",
+    "title": "Stream Temperature",
+    "section": "Associated Restoration Actions",
+    "text": "Associated Restoration Actions\nVarious restoration actions linked to stream temperature that may directly or indirectly mitigate impacts to Chinook Salmon from stream temperature.\n\n\n\n\n\n\n\n\nUpland Forest Management and Reforestation\n\n\nUpland forest management and reforestation to reduce ECA, peak flows and stream temperature.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nWater Management and Water Use\n\n\nDam Release, water management and water use.\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "restoration_actions/Upland Forest Management and Reforestation.html",
+    "href": "restoration_actions/Upland Forest Management and Reforestation.html",
+    "title": "Upland Forest Management and Reforestation",
+    "section": "",
+    "text": "Applications in the Nicola\n…\n\n\nLinks\n…\n\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "restoration_actions/Water Management and Water Use.html",
+    "href": "restoration_actions/Water Management and Water Use.html",
+    "title": "Water Management and Water Use",
+    "section": "",
+    "text": "Applications in the Nicola\n…\n\n\nLinks\n…\n\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "restoration_actions/Beaver Reintroduction and Management.html",
+    "href": "restoration_actions/Beaver Reintroduction and Management.html",
+    "title": "Beaver Reintroduction and Management",
+    "section": "",
+    "text": "Applications in the Nicola\n…\n\n\nLinks\n…\n\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "data_and_tools/Raven Stream Flow Projections for the Nicola.html",
+    "href": "data_and_tools/Raven Stream Flow Projections for the Nicola.html",
+    "title": "Raven Stream Flow Projections for the Nicola",
+    "section": "",
+    "text": "Mechanistic stream flow model for predictions nodes throughout the Nicola River and its corresponding tributaries. The underlying model provides normalized predictions and stream flow predictions for future periods. Extension to predict stream temperature from the Raven hydrological modelling framework in prep.\nCitation:\nChernos, M., MacDonald, R.J., Bobenic, T. (2022) Aquatic Refugia Analysis Support – Streamflow and macro refugia identification in the Nicola River Watershed. MacDonald Hydrology Consultants Ltd. Prepared for the British Columbia Ministry of Forests, Lands, Natural Resource Operations and Rural Development. (August 2022)\nLinks:\nSee Chelsea Enslow (BC Ministry of Forests)\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "stressor_profiles/Low Flows.html",
+    "href": "stressor_profiles/Low Flows.html",
+    "title": "Low Flows",
+    "section": "",
+    "text": "Impacts from low stream flows on Chinook Salmon"
+  },
+  {
+    "objectID": "stressor_profiles/Low Flows.html#overview",
+    "href": "stressor_profiles/Low Flows.html#overview",
+    "title": "Low Flows",
+    "section": "Overview",
+    "text": "Overview\nStream flow is a state variable in lotic systems. It has a strong control on fish habitat characteristics including temperature, sedimentation, stream morphology and dissolved oxygen. Continued changes in climate will generally favor an earlier spring freshet, and extended periods of low flow through the late summer and fall. Increasing demand (i.e., withdrawls), forestry, and urban development can further alter the hydrology of the Nicola Basin (i.e., magnitude of peak flow, timing of flow; e.g.,Winkler et al., 2017).\nLandscape activities and exacerbating factors: Low flows are governed by climate and watershed attributes. Low flows coincide with high stream temperatures in the August/September period. Exacerbating factors include water withdrawals for agriculture, shifts in landcover (elevated evapotranspiration) as well as changes to the channel morphology and corresponding fish passage issues."
+  },
+  {
+    "objectID": "stressor_profiles/Low Flows.html#key-datasets-stressor-magnitude",
+    "href": "stressor_profiles/Low Flows.html#key-datasets-stressor-magnitude",
+    "title": "Low Flows",
+    "section": "Key Datasets: Stressor Magnitude",
+    "text": "Key Datasets: Stressor Magnitude\nStressor magnitude input data is used to generate maps and location-specific estimates of current (or future) conditions across the landscape.\n\n\n\n\n\n\n\n\nRaven Stream Flow Projections for the Nicola\n\n\nStreamflow and macro refugia identification in the Nicola River Watershed\n\n\n\nChernos et al 2022\n\n\nAug 31, 2022\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "stressor_profiles/Low Flows.html#stressor-response-relationships",
+    "href": "stressor_profiles/Low Flows.html#stressor-response-relationships",
+    "title": "Low Flows",
+    "section": "Stressor-Response Relationships",
+    "text": "Stressor-Response Relationships\nStressor response relationships describe the relationship between a stressor and a component of the Chinook Salmon life cycle. Low stream flows are beleived to impact multiple life stages and key processes. Low stream flows can have a negative impact on egg to smolt survival through several mechanisms, including reducing rearing habitat, raising stream temperatures, limiting the amount of invertebrate prey, and reducing survival during smolt outmigration. Extremely high flows may also impact survival, for example by physically damaging eggs at redd sites. Warkentin et al. (2022) quantified the relationship between summer flow and Chinook productivity in the Nicola River, which would capture many of the above-mentioned processes.\n\n\n   \n     \n     \n       Order By\n       Default\n         \n          Title\n        \n         \n          Author\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\nAuthor\n\n\nTitle\n\n\nDescription\n\n\n\n\n\n\nHYPOTHETICAL \n\n\nAugust Flows and Chinook Salmon Habitat Availability\n\n\nHypothetical relationship between August low flows and Chinook Salmon habitat capacity for fry/parr\n\n\n\n\nWarkentin et al. 2022\n\n\nAugust Flows and Chinook Salmon Productivity\n\n\nEmpirical relationship between August low flows and Chinook Salmon productivity\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "stressor_profiles/Low Flows.html#associated-restoration-actions",
+    "href": "stressor_profiles/Low Flows.html#associated-restoration-actions",
+    "title": "Low Flows",
+    "section": "Associated Restoration Actions",
+    "text": "Associated Restoration Actions\nVarious restoration actions linked to low that may directly or indirectly mitigate impacts to Chinook Salmon.\n\n\n\n\n\n\n\n\nWater Management and Water Use\n\n\nDam Release, water management and water use.\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "stressor_profiles/Low Flows.html#references",
+    "href": "stressor_profiles/Low Flows.html#references",
+    "title": "Low Flows",
+    "section": "References",
+    "text": "References\nArthuad, D. L., Greene, C. M., Guilbault, K., and Morrow Jr., J. V. 2010. Hydrobiologia 655: 171 – 188\nChernos, M., MacDonald, R. J., and Bobenic, T. 2022. Aquatic Refugia Analysis Support – Streamflow and macro refugia identification in the Nicola River Watershed. MacDonald Hydrology Consultants Ltd. (August 2022).\nMichel, C. J., Notch, J. J., Cordoleani, F., Ammann, A. J., and Danner, E. M. Ecosphere 12: e03498;\nWarkentin, L., Parken, C. K., Bailey, R., and Moore, J. W. 2020. Ecol. Solut. Evid. 3: e12124. Winkler, R., Spittlehouse, D., and Boon S. 2017. Ecohydrology 10: e1836."
+  },
+  {
+    "objectID": "stressor_profiles/Warkinton 2022 August Flows and Chinook Salmon Productivity.html",
+    "href": "stressor_profiles/Warkinton 2022 August Flows and Chinook Salmon Productivity.html",
+    "title": "August Flows and Chinook Salmon Productivity",
+    "section": "",
+    "text": "Stressor:\nmean August flows during the rearing season (Nicola Mainstem)\n\n\nSpecies:\nChinook Salmon\n\n\nLife Stage:\nAll (compiled to S/R productivity estimate)\n\n\nSeason/Activity:\nAll (compiled to S/R productivity estimate)\n\n\nVital Rate:\nNet productivity\n\n\nCitation:\nWarkentin, L., Parken, C. K., Bailey, R., & Moore, J. W. (2022). Low summer river flows associated with low productivity of Chinook salmon in a watershed with shifting hydrology. Ecological Solutions and Evidence, 3(1), e12124.\n\n\nStressor-Response Relationship:\n\nRationale:\n…\n\n\nUnderlying Function:\n…\n\n\n\n(Warkinton et al 2011) Effect of mean August flow during rearing on recruitment of Nicola River Chinook salmon. The three shaded regions represent 90% credible intervals of model predictions based on three spawner abundances (mean, 25th percentile and 75th percentile). The dotted horizontal line shows the replacement level of one recruit per spawner at mean spawner abundance. The vertical dashed grey line indicates the model-predicted value of 10.6 m3s−1 flow during the rearing summer that results in replacement (recruits/spawner = 1). Rugplots (grey ticks along inside of x and y axes) show distribution of observations.\n\n\n\n\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "stressor_response/Warkinton 2022 August Flows and Chinook Salmon Productivity.html",
+    "href": "stressor_response/Warkinton 2022 August Flows and Chinook Salmon Productivity.html",
+    "title": "August Flows and Chinook Salmon Productivity",
+    "section": "",
+    "text": "Stressor:\nmean August flows during the rearing season (Nicola Mainstem)\n\n\nSpecies:\nChinook Salmon\n\n\nLife Stage:\nAll (compiled to S/R productivity estimate)\n\n\nSeason/Activity:\nAll (compiled to S/R productivity estimate)\n\n\nVital Rate:\nNet productivity\n\n\nCitation:\nWarkentin, L., Parken, C. K., Bailey, R., & Moore, J. W. (2022). Low summer river flows associated with low productivity of Chinook salmon in a watershed with shifting hydrology. Ecological Solutions and Evidence, 3(1), e12124.\n\n\nStressor-Response Relationship:\n\nRationale:\n…\n\n\nUnderlying Function:\n…\n\n\n\n(Warkinton et al 2011) Effect of mean August flow during rearing on recruitment of Nicola River Chinook salmon. The three shaded regions represent 90% credible intervals of model predictions based on three spawner abundances (mean, 25th percentile and 75th percentile). The dotted horizontal line shows the replacement level of one recruit per spawner at mean spawner abundance. The vertical dashed grey line indicates the model-predicted value of 10.6 m3s−1 flow during the rearing summer that results in replacement (recruits/spawner = 1). Rugplots (grey ticks along inside of x and y axes) show distribution of observations.\n\n\n\n\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "stressor_response/Hypothetical August Flows and Chinook Salmon Habitat Availability.html",
+    "href": "stressor_response/Hypothetical August Flows and Chinook Salmon Habitat Availability.html",
+    "title": "August Flows and Chinook Salmon Habitat Availability",
+    "section": "",
+    "text": "Stressor:\nmean August flows during the rearing season\n\n\nSpecies:\nChinook Salmon\n\n\nLife Stage:\nFry and parr rearing habitat availability\n\n\nSeason/Activity:\nRearing season\n\n\nVital Rate:\nHabitat capacity\n\n\nCitation:\n(hypothetical)\n\n\nStressor-Response Relationship:\n\nRationale:\n…\n\n\nUnderlying Function:\n…\n\n\n\nHypothetical relationship between stream flows and habitat availability\n\n\n\n\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "stressor_profiles/Barriers to Fish Passage.html",
+    "href": "stressor_profiles/Barriers to Fish Passage.html",
+    "title": "Barriers to Fish Passage",
+    "section": "",
+    "text": "Impacts of barriers to fish passage on Chinook Salmon"
+  },
+  {
+    "objectID": "stressor_profiles/Barriers to Fish Passage.html#overview",
+    "href": "stressor_profiles/Barriers to Fish Passage.html#overview",
+    "title": "Barriers to Fish Passage",
+    "section": "Overview",
+    "text": "Overview\n…"
+  },
+  {
+    "objectID": "stressor_profiles/Barriers to Fish Passage.html#key-datasets-stressor-magnitude",
+    "href": "stressor_profiles/Barriers to Fish Passage.html#key-datasets-stressor-magnitude",
+    "title": "Barriers to Fish Passage",
+    "section": "Key Datasets: Stressor Magnitude",
+    "text": "Key Datasets: Stressor Magnitude\nStressor magnitude input data is used to generate maps and location-specific estimates of current (or future) conditions across the landscape.\n\n\n\n\n\n\n\n\nBC Fish Passage Model - Nicola\n\n\nPredictions of fish-bearing and non-fish-bearing stream reaches\n\n\n\nMazany-Wright et al 2021\n\n\nSep 1, 2021\n\n\n\n\n\n\n\n\n\n\n\n\nRaven Stream Flow Projections for the Nicola\n\n\nStreamflow and macro refugia identification in the Nicola River Watershed\n\n\n\nChernos et al 2022\n\n\nAug 31, 2022\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "stressor_profiles/Barriers to Fish Passage.html#stressor-response-relationships",
+    "href": "stressor_profiles/Barriers to Fish Passage.html#stressor-response-relationships",
+    "title": "Barriers to Fish Passage",
+    "section": "Stressor-Response Relationships",
+    "text": "Stressor-Response Relationships\nStressor response relationships describe the relationship between a stressor and a component of the Chinook Salmon life cycle.\n\n\n   \n     \n     \n       Order By\n       Default\n         \n          Title\n        \n         \n          Author\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\nAuthor\n\n\nTitle\n\n\nDescription\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "stressor_profiles/Barriers to Fish Passage.html#associated-restoration-actions",
+    "href": "stressor_profiles/Barriers to Fish Passage.html#associated-restoration-actions",
+    "title": "Barriers to Fish Passage",
+    "section": "Associated Restoration Actions",
+    "text": "Associated Restoration Actions\n…\n\n\n\n\n\n\n\n\nWater Management and Water Use\n\n\nDam Release, water management and water use.\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
+>>>>>>> main:_site/search.json
   }
 ]

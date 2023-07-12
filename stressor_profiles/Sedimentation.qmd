@@ -1,0 +1,50 @@
+---
+  title: "Sedimentation"
+  listing:
+  - id: stressor-magnitude
+    contents:
+      - "../data_and_tools/*.qmd"
+    type: grid
+    include:
+      categories: "sedimentation"
+  - id: stressor-response
+    contents:
+      - "../stressor_response/*.qmd"
+    fields: [author, title, description]
+    type: table
+    include:
+      categories: "sedimentation"
+  - id: restoration-actions
+    contents:
+      - "../restoration_actions/*.qmd"
+    type: grid
+    include:
+      categories: "sedimentation"
+---
+
+Impacts from sedimentation on Chinook Salmon
+
+## **Overview**
+
+...
+
+## **Key Datasets: Stressor Magnitude**
+
+*Stressor magnitude input data is used to generate maps and location-specific estimates of current (or future) conditions across the landscape.*
+
+::: {#stressor-magnitude}
+:::
+
+## **Stressor-Response Relationships**
+
+*Stressor response relationships describe the relationship between a stressor and a component of the Chinook Salmon life cycle.*
+
+::: {#stressor-response}
+:::
+
+## **Associated Restoration Actions**
+
+...
+
+::: {#restoration-actions}
+:::

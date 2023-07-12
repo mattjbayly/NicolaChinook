@@ -1,0 +1,14 @@
+{
+  "hash": "78fa803dae752333aa23d2d538174114",
+  "result": {
+    "markdown": "---\n  title: \"Stream Temperature\"\n---\n\n\nStream Temperature\n\n## **Overview**\n\nStream temperature becomes too warm for Chinook Salmon at certain life stages. Warming temperatures can have a negative impact on egg survival, alevin/fry survival, and can increase the probability of pre-spawning mortality when mature individuals return to freshwater. High stream temperatures also create thermal barriers between mainstem and tributary sections, blocking the seasonal movement of Chinook. Numerous natural and anthropogenic factors influence stream temperature. Forest harvesting has been demonstrated to have an important influence on stream temperature, in addition to continued changes in climate (Gomi et al., 2006).\n\n## **Key Datasets**\n\n[Porter et al 2017: Nicola SSN Stream Temperature Model](../data_and_tools/Nicola_SSN_Stream_Temperature_Model.qmd)\n\n\n\n::: {.cell}\n\n```{.r .cell-code}\n1 + 1\n```\n\n::: {.cell-output .cell-output-stdout}\n```\n[1] 2\n```\n:::\n:::\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "ed6815eaacfd99d52bc1f69868dcb248",
+  "result": {
+    "markdown": "---\n  title: \"Stressor Profile 3\"\n---\n\n  \n  Stressor Profile 3\n\n::: {.cell}\n\n```{.r .cell-code}\n1 + 1\n```\n\n::: {.cell-output .cell-output-stdout}\n```\n[1] 2\n```\n:::\n:::",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

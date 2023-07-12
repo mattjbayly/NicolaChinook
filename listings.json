@@ -3,6 +3,7 @@
     "listing": "/stressor_response/Stressor_Response.html",
     "items": [
       "/stressor_response/Temperature_and_Adult_Migration_and_Holding_Productivity.html"
+<<<<<<< HEAD:listings.json
     ]
   },
   {
@@ -21,14 +22,66 @@
     "items": [
       "/data_and_tools/Nicola_SSN_Stream_Temperature_Model.html",
       "/data_and_tools/BC_Fish_Passage_Model.html"
+=======
+>>>>>>> main:_site/listings.json
     ]
   },
   {
     "listing": "/stressor_profiles/Stressor_Profiles.html",
     "items": [
+<<<<<<< HEAD:listings.json
       "/stressor_profiles/Stream_Temperature.html",
       "/stressor_profiles/Stressor_Profile_2.html",
       "/stressor_profiles/Stressor_Profile_3.html"
+=======
+      "/data_and_tools/Nicola_SSN_Stream_Temperature_Model.html",
+      "/data_and_tools/Raven Stream Flow Projections for the Nicola.html",
+      "/stressor_response/Temperature_and_Adult_Migration_and_Holding_Productivity.html",
+      "/restoration_actions/Upland Forest Management and Reforestation.html",
+      "/restoration_actions/Water Management and Water Use.html"
+    ]
+  },
+  {
+    "listing": "/restoration_actions/restoration_actions.html",
+    "items": [
+      "/restoration_actions/Beaver Reintroduction and Management.html",
+      "/restoration_actions/Upland Forest Management and Reforestation.html",
+      "/restoration_actions/Water Management and Water Use.html"
+    ]
+  },
+  {
+    "listing": "/data_and_tools/Data_Tools.html",
+    "items": [
+      "/data_and_tools/Raven Stream Flow Projections for the Nicola.html",
+      "/data_and_tools/Nicola_SSN_Stream_Temperature_Model.html",
+      "/data_and_tools/BC_Fish_Passage_Model.html"
+    ]
+  },
+  {
+    "listing": "/stressor_profiles/Stressor_Profiles.html",
+    "items": [
+      "/stressor_profiles/Barriers to Fish Passage.html",
+      "/stressor_profiles/Low Flows.html",
+      "/stressor_profiles/Sedimentation.html",
+      "/stressor_profiles/Stream_Temperature.html"
+    ]
+  },
+  {
+    "listing": "/stressor_profiles/Low Flows.html",
+    "items": [
+      "/data_and_tools/Raven Stream Flow Projections for the Nicola.html",
+      "/stressor_response/Hypothetical August Flows and Chinook Salmon Habitat Availability.html",
+      "/stressor_response/Warkinton 2022 August Flows and Chinook Salmon Productivity.html",
+      "/restoration_actions/Water Management and Water Use.html"
+    ]
+  },
+  {
+    "listing": "/stressor_profiles/Barriers to Fish Passage.html",
+    "items": [
+      "/data_and_tools/BC_Fish_Passage_Model.html",
+      "/data_and_tools/Raven Stream Flow Projections for the Nicola.html",
+      "/restoration_actions/Water Management and Water Use.html"
+>>>>>>> main:_site/listings.json
     ]
   }
 ]

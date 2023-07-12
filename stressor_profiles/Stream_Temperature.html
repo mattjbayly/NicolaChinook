@@ -99,13 +99,41 @@ ul.task-list li input[type="checkbox"] {
     }
 
     const options = {
-      valueNames: ['listing-title','listing-author','listing-date','listing-image','listing-description',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      valueNames: ['listing-author','listing-title','listing-description',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-title-sort'] }],
       
-      searchColumns: ["listing-title","listing-author","listing-date","listing-image","listing-description"],
+      searchColumns: ["listing-date","listing-title","listing-author"],
     };
 
     window['quarto-listings'] = window['quarto-listings'] || {};
     window['quarto-listings']['listing-stressor-response'] = new List('listing-stressor-response', options);
+
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  });
+
+  window.addEventListener('hashchange',() => {
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  })
+  
+
+  window.document.addEventListener("DOMContentLoaded", function (_event) {
+    const listingTargetEl = window.document.querySelector('#listing-restoration-actions .list');
+    if (!listingTargetEl) {
+      // No listing discovered, do not attach.
+      return; 
+    }
+
+    const options = {
+      valueNames: ['listing-title','listing-author','listing-image','listing-description',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      
+      searchColumns: ["listing-title","listing-author","listing-image","listing-description"],
+    };
+
+    window['quarto-listings'] = window['quarto-listings'] || {};
+    window['quarto-listings']['listing-restoration-actions'] = new List('listing-restoration-actions', options);
 
     if (window['quarto-listing-loaded']) {
       window['quarto-listing-loaded']();
@@ -243,6 +271,7 @@ ul.task-list li input[type="checkbox"] {
   <li><a href="#overview" id="toc-overview" class="nav-link active" data-scroll-target="#overview"><strong>Overview</strong></a></li>
   <li><a href="#key-datasets-stressor-magnitude" id="toc-key-datasets-stressor-magnitude" class="nav-link" data-scroll-target="#key-datasets-stressor-magnitude"><strong>Key Datasets: Stressor Magnitude</strong></a></li>
   <li><a href="#stressor-response-relationships" id="toc-stressor-response-relationships" class="nav-link" data-scroll-target="#stressor-response-relationships"><strong>Stressor-Response Relationships</strong></a></li>
+  <li><a href="#associated-restoration-actions" id="toc-associated-restoration-actions" class="nav-link" data-scroll-target="#associated-restoration-actions"><strong>Associated Restoration Actions</strong></a></li>
   </ul>
 </nav>
     </div>
@@ -269,14 +298,15 @@ ul.task-list li input[type="checkbox"] {
 <p>Impacts from elevated stream temperature on Chinook Salmon</p>
 <section id="overview" class="level2">
 <h2 class="anchored" data-anchor-id="overview"><strong>Overview</strong></h2>
-<p>Stream temperature becomes too warm for Chinook Salmon at certain life stages. Warming temperatures can have a negative impact on egg survival, alevin/fry survival, and can increase the probability of pre-spawning mortality when mature individuals return to freshwater. High stream temperatures also create thermal barriers between mainstem and tributary sections, blocking the seasonal movement of Chinook. Numerous natural and anthropogenic factors influence stream temperature. Forest harvesting has been demonstrated to have an important influence on stream temperature, in addition to continued changes in climate (Gomi et al., 2006).</p>
+<p>Stream temperature becomes too warm for Chinook Salmon at certain life stages. Warming temperatures can have a negative impact on egg survival, alevin/fry survival, and can increase the probability of pre-spawning mortality when mature individuals return to freshwater. High stream temperatures also create thermal barriers between mainstem and tributary sections, blocking the seasonal movement of Chinook.</p>
+<p><strong>Landscape activities and exacerbating factors</strong>: Numerous natural and anthropogenic factors influence stream temperature. Forest harvesting has been demonstrated to have an important influence on stream temperature, in addition to continued changes in climate (Gomi et al., 2006).</p>
 </section>
 <section id="key-datasets-stressor-magnitude" class="level2">
 <h2 class="anchored" data-anchor-id="key-datasets-stressor-magnitude"><strong>Key Datasets: Stressor Magnitude</strong></h2>
 <p><em>Stressor magnitude input data is used to generate maps and location-specific estimates of current (or future) conditions across the landscape.</em></p>
 <div id="listing-stressor-magnitude" class="quarto-listing quarto-listing-container-grid">
 <div class="list grid quarto-listing-cols-3">
-<div class="g-col-1" data-index="0" data-categories="stream temperature,GIS" data-listing-date-sort="1509087600000" data-listing-file-modified-sort="1689117302088" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1">
+<div class="g-col-1" data-index="0" data-categories="stream temperature,GIS" data-listing-date-sort="1509087600000" data-listing-file-modified-sort="1689198399795" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1">
 <a href="../data_and_tools/Nicola_SSN_Stream_Temperature_Model.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top"><img src="..\images\ssn_stream_temperature.png" style="height: 150px;"  class="thumbnail-image card-img"/></p>
@@ -289,10 +319,33 @@ Predictions of current and future stream temperatures from the empirical SSN mod
 </div>
 <div class="card-attribution card-text-small justify">
 <div class="listing-author">
-Porter et al
+Porter et al 2017
 </div>
 <div class="listing-date">
 Oct 27, 2017
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="1" data-categories="stream flow,low flows,climate change,fish passage,stream temperature,GIS" data-listing-date-sort="1661929200000" data-listing-file-modified-sort="1689201012977" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1">
+<a href="../data_and_tools/Raven Stream Flow Projections for the Nicola.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<div class="listing-item-img-placeholder card-img-top" style="height: 150px;">&nbsp;</div>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Raven Stream Flow Projections for the Nicola
+</h5>
+<div class="card-text listing-description">
+Streamflow and macro refugia identification in the Nicola River Watershed
+</div>
+<div class="card-attribution card-text-small justify">
+<div class="listing-author">
+Chernos et al 2022
+</div>
+<div class="listing-date">
+Aug 31, 2022
 </div>
 </div>
 </div>
@@ -308,25 +361,100 @@ No matching items
 <section id="stressor-response-relationships" class="level2">
 <h2 class="anchored" data-anchor-id="stressor-response-relationships"><strong>Stressor-Response Relationships</strong></h2>
 <p><em>Stressor response relationships describe the relationship between a stressor and a component of the Chinook Salmon life cycle.</em></p>
-<div id="listing-stressor-response" class="quarto-listing quarto-listing-container-grid">
+<div id="listing-stressor-response" class="quarto-listing quarto-listing-container-table">
+<div class="listing-actions-group">
+   <div class="input-group input-group-sm quarto-listing-sort">
+     <span class="input-group-text"><i class="bi bi-sort-down"></i></span>
+     <select id="listing-stressor-response-sort" class="form-select" aria-label="Order By" onchange="window['quarto-listings']['listing-stressor-response'].sort(this.options[this.selectedIndex].value, { order: this.options[this.selectedIndex].getAttribute('data-direction')})">
+       <option value="" disabled="" selected="" hidden="">Order By</option>
+       <option value="index" data-direction="asc">Default</option>
+         <option value="listing-title-sort" data-direction="asc">
+          Title
+        </option>
+         <option value="listing-author" data-direction="asc">
+          Author
+        </option>
+     </select>
+  </div>
+    <div class="input-group input-group-sm quarto-listing-filter">
+      <span class="input-group-text"><i class="bi bi-search"></i></span>
+      <input type="text" class="search form-control" placeholder="Filter">
+    </div>
+</div>
+
+<table class="quarto-listing-table table">
+<thead>
+<tr>
+<th>
+<a class="sort" data-sort="listing-author" onclick="if (this.classList.contains('sort-asc')) { this.classList.add('sort-desc'); this.classList.remove('sort-asc') } else { this.classList.add('sort-asc'); this.classList.remove('sort-desc')} return false;">Author</a>
+</th>
+<th>
+<a class="sort" data-sort="listing-title-sort" onclick="if (this.classList.contains('sort-asc')) { this.classList.add('sort-desc'); this.classList.remove('sort-asc') } else { this.classList.add('sort-asc'); this.classList.remove('sort-desc')} return false;">Title</a>
+</th>
+<th>
+Description
+</th>
+</tr>
+</thead>
+<tbody class="list">
+<tr data-index="0" data-categories="stream temperature,stressor response,adult,migration,holding" data-listing-date-sort="1609488000000" data-listing-file-modified-sort="1689201051797" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-title-sort="Temperature and Adult Migration and Holding Productivity" data-listing-filename-sort="Temperature_and_Adult_Migration_and_Holding_Productivity.qmd">
+<td>
+<span class="listing-author">Beechie et al 2021</span>
+</td>
+<td>
+<a href="../stressor_response/Temperature_and_Adult_Migration_and_Holding_Productivity.html" class="title listing-title">Temperature and Adult Migration and Holding Productivity</a>
+</td>
+<td>
+<span class="listing-description">Temperature Effect on Spring Chinook Adult Migration and Holding Productivity</span>
+</td>
+</tr>
+</tbody>
+
+</table>
+<div class="listing-no-matching d-none">
+No matching items
+</div>
+</div>
+</section>
+<section id="associated-restoration-actions" class="level2">
+<h2 class="anchored" data-anchor-id="associated-restoration-actions"><strong>Associated Restoration Actions</strong></h2>
+<p>Various restoration actions linked to stream temperature that may directly or indirectly mitigate impacts to Chinook Salmon from stream temperature.</p>
+<div id="listing-restoration-actions" class="quarto-listing quarto-listing-container-grid">
 <div class="list grid quarto-listing-cols-3">
-<div class="g-col-1" data-index="0" data-categories="stream temperature,stressor response,adult,migration,holding" data-listing-date-sort="1609488000000" data-listing-file-modified-sort="1689117355501" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1">
-<a href="../stressor_response/Temperature_and_Adult_Migration_and_Holding_Productivity.html" class="quarto-grid-link">
+<div class="g-col-1" data-index="0" data-categories="stream temperature,peak flows,forest management,restoration" data-listing-file-modified-sort="1689184959585" data-listing-reading-time-sort="1">
+<a href="../restoration_actions/Upland Forest Management and Reforestation.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top"><img src="..\images\Screenshot 2023-07-11 161341.png" style="height: 150px;"  class="thumbnail-image card-img"/></p>
+<p class="card-img-top"><img src="..\restoration_actions\images\Picture1.png" style="height: 150px;"  class="thumbnail-image card-img"/></p>
 <div class="card-body post-contents">
 <h5 class="no-anchor card-title listing-title">
-Temperature and Adult Migration and Holding Productivity
+Upland Forest Management and Reforestation
 </h5>
 <div class="card-text listing-description">
-Temperature Effect on Spring Chinook Adult Migration and Holding Productivity
+Upland forest management and reforestation to reduce ECA, peak flows and stream temperature.
 </div>
-<div class="card-attribution card-text-small justify">
+<div class="card-attribution card-text-small start">
 <div class="listing-author">
-Beechie et al
+
 </div>
-<div class="listing-date">
-Jan 1, 2021
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="1" data-categories="stream temperature,low flows,fish passage,restoration" data-listing-file-modified-sort="1689185062389" data-listing-reading-time-sort="1">
+<a href="../restoration_actions/Water Management and Water Use.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top"><img src="..\restoration_actions\images\Picture2.png" style="height: 150px;"  class="thumbnail-image card-img"/></p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Water Management and Water Use
+</h5>
+<div class="card-text listing-description">
+Dam Release, water management and water use.
+</div>
+<div class="card-attribution card-text-small start">
+<div class="listing-author">
+
 </div>
 </div>
 </div>

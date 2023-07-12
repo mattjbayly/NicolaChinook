@@ -1,0 +1,23 @@
+---
+title: "Nicola SSN Stream Temperature Model"
+description: Predictions of current and future stream temperatures from the empirical SSN modelling framework
+author: "Porter et al 2017"
+date: "October 27, 2017"
+categories:
+  - "stream temperature"
+  - GIS
+---
+
+Predictions of current and future stream temperatures from the empirical SSN (statistical stream network) modelling framework ([NorWeST](https://www.fs.usda.gov/rm/boise/AWAE/projects/NorWeST.html)). Predictions applied to stream reach segments from the BC Freshwater Atlas.
+
+![(Porter et al 2017) Map of predicted mean August water temperature along the stream network (1st order streams removed for better visualization) in the Nicola Basin during the reference period (1994-2010) based on the selected "best" model for the basin. Stream temperature predictions are colour coded (see legend) to represent predicted water temperature for each stream reach.](/images/ssn_stream_temperature.png){fig-align="center"}
+
+**Citation:**
+
+*Porter, M., M. C. Morton, Nelitz, M., K. Kellock M., Leslie-Gottschligg, K. Chezik and E. Jones. 2017. Interagency stream temperature database and high-resolution stream temperature model for British Columbia: A pilot project (Year 2). Prepared for Pacific Salmon Foundation by ESSA Technologies Ltd.*
+
+**Links:**
+
+-   [Full Report](https://www.essa.com/wp-content/uploads/2021/07/ESSA-Stream-Modeling-Report_Year-2_Final_2017.pdf)
+
+-   [Project Overview](https://www.essa.com/explore-essa/projects/stream-temperature-modelling-in-the-nicola-river-watershed/#1512665948945-0b64f385-20c9cdaf-d954)

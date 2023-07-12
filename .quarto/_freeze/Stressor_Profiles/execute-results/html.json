@@ -1,0 +1,16 @@
+{
+  "hash": "2dd9769afc93b154db08fd20e5fe0079",
+  "result": {
+    "markdown": "---\n  title: \"Stressor Profiles\"\n  listing: default\n  contents: \"stressor_profiles/*.qmd\"\n---\n\n\nStressor Profiles\n\n\n::: {.cell}\n\n```{.r .cell-code}\n1 + 1\n```\n\n::: {.cell-output .cell-output-stdout}\n```\n[1] 2\n```\n:::\n:::\n",
+    "supporting": [
+      "Stressor_Profiles_files"
+    ],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

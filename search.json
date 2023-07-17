@@ -221,11 +221,35 @@
     "href": "life_cycle_and_habitat/Life_History_Habitat.html",
     "title": "Nicola Chinook Habitat",
     "section": "",
-<<<<<<< HEAD:search.json
-    "text": "Placeholder for maps of key habitat areas for spawning and rearing…\n\n\n\n Back to top"
-=======
     "text": "Current (and historic) Chinook spawning habitat within the Nicola includes target reaches within the Nicola mainstem (largely between the Spius Creek and Coldwater River confluence points), Coldwater River, Spius Creek, lower sections of Clapper Creek, the Upper Nicola River and sections upstream of Nicola Lake (in Moore Creek) (Mazany-Wright et al 2022, LGL Ltd. 2007, Ecoscape 2017, PSF 2023).\n\n\n\n(PSF 2023: Pacific Salmon Explorer): The map displays the locations of indicator and non-indicator streams monitored for spawning salmon, as well as known spawning locations within the Conservation Unit. The figures display the number of spawning salmon observed in each stream each year. Values above or below the dotted line represent years in which observed spawner counts are above or below the average of all years with survey data. Also shown are the data quality rank associated with the spawner survey data and the hatchery releases rating associated with each stream."
->>>>>>> main:_site/search.json
+  },
+  {
+    "objectID": "life_cycle_and_habitat/Life_History_Habitat.html#spawning-habitat",
+    "href": "life_cycle_and_habitat/Life_History_Habitat.html#spawning-habitat",
+    "title": "Nicola Chinook Habitat",
+    "section": "",
+    "text": "Current (and historic) Chinook spawning habitat within the Nicola includes target reaches within the Nicola mainstem (largely between the Spius Creek and Coldwater River confluence points), Coldwater River, Spius Creek, lower sections of Clapper Creek, the Upper Nicola River and sections upstream of Nicola Lake (in Moore Creek) (Mazany-Wright et al 2022, LGL Ltd. 2007, Ecoscape 2017, PSF 2023).\n\n\n\n(PSF 2023: Pacific Salmon Explorer): The map displays the locations of indicator and non-indicator streams monitored for spawning salmon, as well as known spawning locations within the Conservation Unit. The figures display the number of spawning salmon observed in each stream each year. Values above or below the dotted line represent years in which observed spawner counts are above or below the average of all years with survey data. Also shown are the data quality rank associated with the spawner survey data and the hatchery releases rating associated with each stream."
+  },
+  {
+    "objectID": "life_cycle_and_habitat/Life_History_Habitat.html#rearing-habitat",
+    "href": "life_cycle_and_habitat/Life_History_Habitat.html#rearing-habitat",
+    "title": "Nicola Chinook Habitat",
+    "section": "Rearing Habitat:",
+    "text": "Rearing Habitat:\nAdditional rearing habitats have been identified in Juliet Creek and Voght Creek (LGL Ltd. 2007)"
+  },
+  {
+    "objectID": "life_cycle_and_habitat/Life_History_Habitat.html#early-and-late-migrants",
+    "href": "life_cycle_and_habitat/Life_History_Habitat.html#early-and-late-migrants",
+    "title": "Nicola Chinook Habitat",
+    "section": "Early and Late Migrants:",
+    "text": "Early and Late Migrants:\nEarly migrant Chinook Salmon pass through the lower sections of the Nicola mainstem and into tribtuaries headwaters ahead of physiological thermal barriers that form over the summer. These early migrant Chinook are known to utilize the upper portions of Spius Creek and the Coldwater River. Early migrant Chinook are known to travel upstream through the Nicola mainstem ahead of the thermal barriers in May and June on the falling limb of the freshet. These adults will then hold in deep-water pools within these tributaries until mid-to-late August for spawning (Mazany-Wright et al 2022 citing pers. comm from R. Bailey and Nooaitch Band)."
+  },
+  {
+    "objectID": "life_cycle_and_habitat/Life_History_Habitat.html#references",
+    "href": "life_cycle_and_habitat/Life_History_Habitat.html#references",
+    "title": "Nicola Chinook Habitat",
+    "section": "References:",
+    "text": "References:\nEcoscape Ltd. 2017. Nicola River Sensitive Habitat Inventory and Mapping and Aquatic Habitat Index. Prepared for Fraser Basic Council on behalf of Habitat Stewardship Program.\nLGL Ltd. 2007. Development of an Annual Salmonid Productivity Assessment Program for the Nicola River Watershed. Prepared for the Pacific Salmon Foundation.\nMazany-Wright, N., R. E. Bailey, S. M. Norris, J. Noseworthy, B. Rebellato, S. Sra, and N. W. R. Lapointe. 2022. Lower Nicola River Watershed Connectivity Remediation Plan: 2021- 2031. Canadian Wildlife Federation. Ottawa, Ontario, Canada.\nPearsall, I., Bailey, R., Willms, T., Wilson, K., Bradford, K., Smith, M. et al 2022. Nicola Basin Chinook Risk Assessment. Final Report. A Process Developed with the Nicola Collaborative Research and Technical Committee. Nicola Watershed RAMS Final Report. Available online at https://www.fraserbasin.bc.ca/_Library/TR_Nicola/nicola_chinook_rams_final_web.pdf\nPSF (Pacific Salmon Foundation). 2023. Pacific Salmon Explorer.https://www.salmonexplorer.ca/. Accessed June 20, 2023."
   },
   {
     "objectID": "life_cycle_and_habitat/Life_History_Parameters.html",
@@ -345,36 +369,5 @@
     "title": "August Flows and Chinook Salmon Productivity",
     "section": "",
     "text": "Stressor:\nmean August flows during the rearing season (Nicola Mainstem)\n\n\nSpecies:\nChinook Salmon\n\n\nLife Stage:\nAll (compiled to S/R productivity estimate)\n\n\nSeason/Activity:\nAll (compiled to S/R productivity estimate)\n\n\nVital Rate:\nNet productivity\n\n\nCitation:\nWarkentin, L., Parken, C. K., Bailey, R., & Moore, J. W. (2022). Low summer river flows associated with low productivity of Chinook salmon in a watershed with shifting hydrology. Ecological Solutions and Evidence, 3(1), e12124.\n\n\nStressor-Response Relationship:\n\nRationale:\n…\n\n\nUnderlying Function:\n…\n\n\n\n(Warkinton et al 2011) Effect of mean August flow during rearing on recruitment of Nicola River Chinook salmon. The three shaded regions represent 90% credible intervals of model predictions based on three spawner abundances (mean, 25th percentile and 75th percentile). The dotted horizontal line shows the replacement level of one recruit per spawner at mean spawner abundance. The vertical dashed grey line indicates the model-predicted value of 10.6 m3s−1 flow during the rearing summer that results in replacement (recruits/spawner = 1). Rugplots (grey ticks along inside of x and y axes) show distribution of observations.\n\n\n\n\n\n\n\n Back to top"
-<<<<<<< HEAD:search.json
-=======
-  },
-  {
-    "objectID": "life_cycle_and_habitat/Life_History_Habitat.html#spawning-habitat",
-    "href": "life_cycle_and_habitat/Life_History_Habitat.html#spawning-habitat",
-    "title": "Nicola Chinook Habitat",
-    "section": "",
-    "text": "Current (and historic) Chinook spawning habitat within the Nicola includes target reaches within the Nicola mainstem (largely between the Spius Creek and Coldwater River confluence points), Coldwater River, Spius Creek, lower sections of Clapper Creek, the Upper Nicola River and sections upstream of Nicola Lake (in Moore Creek) (Mazany-Wright et al 2022, LGL Ltd. 2007, Ecoscape 2017, PSF 2023).\n\n\n\n(PSF 2023: Pacific Salmon Explorer): The map displays the locations of indicator and non-indicator streams monitored for spawning salmon, as well as known spawning locations within the Conservation Unit. The figures display the number of spawning salmon observed in each stream each year. Values above or below the dotted line represent years in which observed spawner counts are above or below the average of all years with survey data. Also shown are the data quality rank associated with the spawner survey data and the hatchery releases rating associated with each stream."
-  },
-  {
-    "objectID": "life_cycle_and_habitat/Life_History_Habitat.html#rearing-habitat",
-    "href": "life_cycle_and_habitat/Life_History_Habitat.html#rearing-habitat",
-    "title": "Nicola Chinook Habitat",
-    "section": "Rearing Habitat:",
-    "text": "Rearing Habitat:\nAdditional rearing habitats have been identified in Juliet Creek and Voght Creek (LGL Ltd. 2007)"
-  },
-  {
-    "objectID": "life_cycle_and_habitat/Life_History_Habitat.html#early-and-late-migrants",
-    "href": "life_cycle_and_habitat/Life_History_Habitat.html#early-and-late-migrants",
-    "title": "Nicola Chinook Habitat",
-    "section": "Early and Late Migrants:",
-    "text": "Early and Late Migrants:\nEarly migrant Chinook Salmon pass through the lower sections of the Nicola mainstem and into tribtuaries headwaters ahead of physiological thermal barriers that form over the summer. These early migrant Chinook are known to utilize the upper portions of Spius Creek and the Coldwater River. Early migrant Chinook are known to travel upstream through the Nicola mainstem ahead of the thermal barriers in May and June on the falling limb of the freshet. These adults will then hold in deep-water pools within these tributaries until mid-to-late August for spawning (Mazany-Wright et al 2022 citing pers. comm from R. Bailey and Nooaitch Band)."
-  },
-  {
-    "objectID": "life_cycle_and_habitat/Life_History_Habitat.html#references",
-    "href": "life_cycle_and_habitat/Life_History_Habitat.html#references",
-    "title": "Nicola Chinook Habitat",
-    "section": "References:",
-    "text": "References:\nEcoscape Ltd. 2017. Nicola River Sensitive Habitat Inventory and Mapping and Aquatic Habitat Index. Prepared for Fraser Basic Council on behalf of Habitat Stewardship Program.\nLGL Ltd. 2007. Development of an Annual Salmonid Productivity Assessment Program for the Nicola River Watershed. Prepared for the Pacific Salmon Foundation.\nMazany-Wright, N., R. E. Bailey, S. M. Norris, J. Noseworthy, B. Rebellato, S. Sra, and N. W. R. Lapointe. 2022. Lower Nicola River Watershed Connectivity Remediation Plan: 2021- 2031. Canadian Wildlife Federation. Ottawa, Ontario, Canada.\nPearsall, I., Bailey, R., Willms, T., Wilson, K., Bradford, K., Smith, M. et al 2022. Nicola Basin Chinook Risk Assessment. Final Report. A Process Developed with the Nicola Collaborative Research and Technical Committee. Nicola Watershed RAMS Final Report. Available online at https://www.fraserbasin.bc.ca/_Library/TR_Nicola/nicola_chinook_rams_final_web.pdf\nPSF (Pacific Salmon Foundation). 2023. Pacific Salmon Explorer.https://www.salmonexplorer.ca/. Accessed June 20, 2023."
->>>>>>> main:_site/search.json
   }
 ]

@@ -1,0 +1,71 @@
+---
+title: "Informing Cumulative Effects Management for Chinook Salmon in the Nicola Watershed"
+---
+
+Technical leads: ESSA, supported by scientists from the University of British Columbia, MoE, and Simon Fraser University.
+
+![](images/team_logos.png){fig-align="center" width="520"}
+
+## **Project Team:**
+
+|                              |                                  |
+|------------------------------|----------------------------------|
+| David Lawrence (Nooaitch)    | Clint Alexander (ESSA)           |
+| Natasha Fountain (Nooaitch)  | Matthew Bayly (ESSA/Independent) |
+| Richard Bailey (Independent) | Graham Mushet (ESSA)             |
+| Jordan Rosenfeld (UBC/MoE)   | Jonathan Moore (SFU)             |
+| Bea Rost-Komiya (ESSA)       | Tom Willms (NVIT)                |
+
+Contact: [mbayly\@essa.com](mailto:mbayly@essa.com); [lsantana\@essa.com](mailto:lsantana@essa.com)
+
+## **Summary:**
+
+This project proposes to quantify the risks that multiple stressors from climate change and land-use activities (including TMX) pose to Chinook Salmon in the Nicola Basin. This information will be used to collaboratively develop and explore forward-looking scenarios of different watershed management actions that can inform watershed planning and decision-making.
+
+## **Purpose:**
+
+-   Regional-scale synthesis of cumulative effects in the Nicola Basin through the lens of Chinook Salmon productivity and capacity.
+
+-   Utilize the Cumulative Effect Model for the Prioritization of Recovery Action (CEMPRA) modelling framework to aid in a shared understanding of cumulative effects within the Nicola Watershed.
+
+-   Support and empower independent decision-making and future analysis around land-use management in the Nicola by translating this understanding into potential paths for effective watershed stewardship.
+
+-   This project will build on (or have linkages with) many other recent and on-going efforts and initiatives in the Nicola basin.
+
+## **Activities:**
+
+-   Run a series of collaborative workshops through 2023 (details below) with an advisory panel and community members.
+
+-   Quantify watershed stressors through a cumulative effect and life cycle modelling framework geared towards Nicola Chinook Salmon.
+
+-   Technical components include data compilation, collaborative development of Chinook Salmon habitat and land-use stressors and stressor-response relationships, literature summaries, GIS analyses, custom modelling, and scenario development.
+
+-   Develop an interactive tool and framework that can be used to explore cumulative effects under alternative land use and climate change scenarios.
+
+## **Outcome:**
+
+This project will provide an enhanced quantitative understanding of cumulative effects on Chinook Salmon habitat and productivity to inform recovery action planning across the Nicola Basin. This project also aims to support and empower independent decision-making (and analyses) around future land-use management decision in the Nicola.
+
+## **Project Timeline (Proposed Workshops):**
+
+-   Workshop #1: May 16th, 2023: Detailed project introduction; design watershed management scenario priorities; discuss tools & techniques etc.
+
+-   Workshop #2: Fall 2023: Present and explore featured scenarios; Discuss results, implications, and limitations; Identify key areas for revisions.
+
+-   Workshop #3: Jan/Feb 2024: Outcomes: Present and explore featured scenarios; Discuss results, implications, and limitations; Identify key areas for revisions.
+
+-   Training Workshop (Capacity Building): March 2024: Training workshop to teach groups how to run cumulative effect assessment tools independently through an interactive web platform.
+
+## **Specific Project Outcomes:**
+
+-   A summary report that is a compilation of stressors and response relationships for Nicola Chinook (*e.g., functional relationship between fine sediment or water temperatures and juvenile survival*), based on both scientific and traditional knowledge \[[Stressor Response Relationships](./stressor_response/Stressor_Response.html)\].
+
+-   A spatially explicit stressor magnitude database that provides maps of the current state and distribution of regional stressors, in terms of activities, stressors, and the predicted state of Chinook Salmon. This stressor magnitude database will be made available in multiple formats for use in conventional GIS software environments such as ArcGIS Pro and QGIS. Underlying stressor-magnitude files will also be generated in formatted Excel workbooks \[[Stressor Profiles](./stressor_profiles/Stressor_Profiles.html)\].
+
+-   A customized version of the CEMPRA R-Shiny application tailored for the Nicola Basin and Chinook Salmon \[[tool in prep.](https://essa.shinyapps.io/JoeModelCEShiny/)\].
+
+-   A set of carefully scoped hypothetical future scenarios of watershed use that can be simulated, communicated in part as spatial maps of land-use activities, and predicted future states of Chinook Salmon associated with them \[Scenario [themes](./scenarios/Scenario_Themes.html), [profiles](./scenarios/Scenario_Design.html) and [results](./scenarios/Scenario_Results.html)\].
+
+-   A summary report describing the outcome of different future land-use scenarios, and how they relate to community values, and an assessment of the underlying trade-offs between these values that are evident in the modelling scenarios.
+
+![Project overview workflow](images/project_flowchart.png){fig-align="center"}

@@ -1,0 +1,68 @@
+project:
+  type: website
+
+website:
+  title: "NicolaChinook"
+  favicon: "./images/logo_small_black.png"
+  back-to-top-navigation: true
+  navbar:
+    title: "Nicola Chinook"
+    logo: "./images/logo_small_black.png"
+    search: true
+    pinned: true
+    tools:
+      - icon: github
+        menu:
+          - text: "NicolaChinook GitHub Repo"
+            url:  https://github.com/mattjbayly/NicolaChinook
+    left:
+      - text: "About"
+        file: index.qmd
+      - text: "Life Cycle and Habitat"
+        menu:
+          - file: life_cycle_and_habitat/Life_History_Overview.qmd
+            text: "Nicola Chinook Overview"
+          - file: life_cycle_and_habitat/Life_History_Habitat.qmd
+            text: "Habitat Maps"
+          - file: life_cycle_and_habitat/Life_History_Parameters.qmd
+            text: "Life History Parameters"
+      - file: data_and_tools/Data_Tools.qmd
+        text: "Data and Tools"
+      - text: "Stressors"
+        menu:
+          - file: stressor_profiles/Stressor_Profiles.qmd
+            text: "Stressor Profiles"
+          - file: stressor_response/Stressor_Response.qmd
+            text: "Stressor Response Relationships"
+      - file: restoration_actions/restoration_actions.qmd
+        text: "Restoration"
+      - text: "Scenarios"
+        menu:
+          - file: scenarios/Scenario_Themes.qmd
+            text: "Scenario Themes"
+          - file: scenarios/Scenario_Design.qmd
+            text: "Scenario Design"
+          - file: scenarios/Scenario_Results.qmd
+            text: "Scenario Results"
+      - file: Workshop_Insights.qmd
+        text: "Workshop Insights"
+  sidebar:
+    - title: "Life Cycle and Habitat"
+      style: "docked"
+      background: light
+      contents:
+        - Stressor_Profile_1.qmd
+        - Stressor_Profile_2.qmd
+        - Stressor_Profile_3.qmd
+    - title: "Data and Tools"
+      contents:
+        - Stressor_Profile_1.qmd
+        - Stressor_Profile_2.qmd
+        - Stressor_Profile_3.qmd
+format:
+  html:
+    theme: materia
+    css: styles.css
+    toc: true
+
+editor: visual

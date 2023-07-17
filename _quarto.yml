@@ -13,8 +13,8 @@ website:
     tools:
       - icon: github
         menu:
-          - text: "Source Code"
-            url:  https://code.com
+          - text: "NicolaChinook GitHub Repo"
+            url:  https://github.com/mattjbayly/NicolaChinook
     left:
       - text: "About"
         file: index.qmd
